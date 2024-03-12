@@ -1,0 +1,9 @@
+#myPurchaseOrders {
+    text-align: left;
+  }
+  
+  #myPurchaseOrders th button {
+    margin-left: 5px;
+    cursor: pointer;
+  }
+    

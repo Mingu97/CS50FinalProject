@@ -1,0 +1,10 @@
+
+/* Style for the case when it's added to PO */
+.added {
+  background-color: green;
+}
+
+/* Style for the case when it's already in PO */
+.already-in-po {
+  background-color: orange;
+}

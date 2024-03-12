@@ -1,0 +1,42 @@
+/* High-end tech theme for the navigation bar */
+.navbar {
+  background-color: #282c34; /* Dark background for a tech look */
+  padding: 10px 0;
+  border-bottom: 2px solid #61dafb; /* Accent border color */
+}
+
+.navbar-brand .logo {
+  height: 40px; /* Adjust the logo height as needed */
+  width: auto;
+}
+
+.navbar-nav .nav-link {
+  color: #0b0282; /* Light text color for contrast */
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #61dafb; /* Accent color for hover state */
+}
+
+.navbar-toggler {
+  border-color: #61dafb; /* Accent color for the navbar toggler */
+}
+
+.navbar-collapse {
+  justify-content: flex-end; /* Align the items to the right */
+}
+
+/* Additional styling for a high-tech feel */
+.navbar-toggler-icon {
+  background-image: url('./toggler.jfif'); /* Replace 'your-icon.jfif' with the actual file name */
+}
+
+/* Style for the loading text */
+.loading-text {
+  color: #61dafb;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 20px;
+}
